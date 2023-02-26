@@ -1,0 +1,4 @@
+#+title: My Publications
+#+OPTIONS: date:nil author:nil timestamp:nil num:nil toc:nil
+
+1. Faulkner, Van de Voorde (20XX) On the Equivalence, Stabilisers, and Feet of Buekenhout-Tits Unitals, preprint: 10.48550/ARXIV.2209.10863.

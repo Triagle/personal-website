@@ -3,7 +3,9 @@
 
 I am a recent Master's graduate from the [[https://www.canterbury.ac.nz/][University of Canterbury]], starting a PhD at [[https://www.vub.be/][Vrije Universiteit Brussel]] in June 2023 under the supervision of [[https://researchportal.vub.be/en/persons/jan-de-beule][Jan De Beule]]. My primary research background is in [[https://en.wikipedia.org/wiki/Finite_geometry][finite geometry]], the study of the geometric systems with a finite number of points.
 
-You can find a copy of CV here. I also have list of (hopefully growing!) publications.
+You can find a copy of CV here. I also have [[file:publications.org][list]] of (hopefully growing!) publications.
+
+I write some of my work in my blog.
 
 Beyond Mathematics, I am also a keen programmer. I have a [[https://github.com/Triagle][GitHub profile]] where you can see some of my programming projects. Here are the highlights:
 - My [[https://github.com/Triagle/dotfiles][dotfiles]], deployed using [[https://www.gnu.org/software/stow/][GNU Stow]].
