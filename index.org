@@ -5,7 +5,7 @@ I am a recent Master's graduate from the [[https://www.canterbury.ac.nz/][Univer
 
 You can find a copy of CV here. I also have [[file:publications.org][list]] of (hopefully growing!) publications.
 
-I write some of my work in my blog.
+I write some of my work in my [[file:blog.org][blog]].
 
 Beyond Mathematics, I am also a keen programmer. I have a [[https://github.com/Triagle][GitHub profile]] where you can see some of my programming projects. Here are the highlights:
 - My [[https://github.com/Triagle/dotfiles][dotfiles]], deployed using [[https://www.gnu.org/software/stow/][GNU Stow]].

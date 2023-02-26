@@ -1,0 +1,4 @@
+#+title: Blog
+#+OPTIONS: date:nil author:nil timestamp:nil num:nil toc:nil
+
+There is nothing here at the moment, check back later!
