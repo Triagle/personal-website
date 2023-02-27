@@ -11,6 +11,7 @@ Beyond Mathematics, I am also a keen programmer. I have a [[https://github.com/T
 - My [[https://github.com/Triagle/dotfiles][dotfiles]], deployed using [[https://www.gnu.org/software/stow/][GNU Stow]].
 - A work in progress [[https://www.gap-system.org/][GAP]] linter: [[https://github.com/Triagle/gap-lint][gap-lint]].
 - An [[https://github.com/Triagle/exoplanet-deep-learning][exoplanet detector]], using CNN and RNN auto-encoders I built for one of my University courses.
+- A [[https://github.com/Triagle/TexToSpeech][LaTeX to speech program]] that helps you proofread documents.
 - Several dead emacs configs. The current config is a [[https://github.com/doomemacs/doomemacs][Doom Emacs]] config in my dotfiles repo.
 
 Contact me at my email: [[mailto:jake.faulkner@pg.canterbury.ac.nz][jake.faulkner@pg.canterbury.ac.nz]].
